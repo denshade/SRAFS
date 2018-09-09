@@ -1,4 +1,8 @@
 
+CREATE DATABASE `srafs` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+
+
 CREATE TABLE `standardelements` (
   `elementid` int(11) NOT NULL AUTO_INCREMENT,
   `standardid` int(11) NOT NULL,
